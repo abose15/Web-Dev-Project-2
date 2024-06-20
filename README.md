@@ -14,7 +14,7 @@ Feel free to explore the code and suggest improvements.
 Since for opening an html doc file there are various local computer requirements, such as the path of the images and videos used from my local storage,etc. I present here a composite solution of deploying it on a live system without the need of hustling with the primary requirements.
 
 
-Click here -> https://rb.gy/4734px
+Click here ->
 ## Resources used
 #### 1. Google
 The various images and videos ,i.e, the assests that I have used are collected from google
